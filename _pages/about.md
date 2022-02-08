@@ -5,18 +5,40 @@ layout: single
 
 ---
 
-## Hello I am YounhHyun Cho! 🖐️
 
-Welcome to my Tech Blog!  
+## 저를 소개합니다 🖐️
 
-I wants to become a SW & ML Researcher. 
+안녕하세요. 저는 SW & ML Resarcher가 되고싶은 조영현이라고 합니다 :)
 
-My research interests are Deep-Learning and Computer-Vision. <br/>I like taking on challenging tasks and I like to grow up with my colleagues around me.<br/>
+비전공자 출신으로서, 군 복무중 기계학습 관련 책을 읽고 <br/>
+인공지능에 관심을 갖게 되어 컴퓨터공학과로 전과를 하였습니다. <br/> 
 
-That is why I upload and share what I did on my Github and my personal Technical Blog.
-### If you want to know more about me, please see my [CV](https://github.com/YoungHyun197/YoungHyun197_CV/blob/main/CV.pdf).  
+전역후 컴퓨터공학도로서 기초를 쌓고자 전공공부를 소홀히 하지 않으며 <br/>
+부족한 프로그래밍 경험을 채워보고자 인디게임 개발 동아리에 가입했습니다.  <br/>
 
-## Research Interest  
+일단 부딪혀보자라는 마음으로 참여한 인디게임 개발대회에서 우수상을 받았으며, <br/>
+덕분에 게임 스타트업회사에서 인턴을 할 수 있었습니다. <br/>
+당시 VR 게임 프로젝트에 서브개발자로 참여하여<br/>
+비록 인기는 없었지만 STEAM에 게임을 출시한 경험이 있습니다.<br/>
+
+처음 나가본 교내 해커톤에서는 무작정 인공지능 기술을 도입해보고자 <br/>
+Media-Pipe를 활용하여 AI 트레이너를 개발하였고, 최우수상에 입상 하였습니다.  
+
+비슷한 시기에 진행하던 게임 프로젝트에서 3D 애니메이션 적용을 담당하였고,<br/>
+컴퓨터비전 기술을 이용해 비디오에서 자동으로 Animation을 생성해주는 <br/>
+OpenMMD를 접하게 되었습니다. 
+
+Media-Pipe와 OpenMMD를 다뤄보며 컴퓨터비전 기술이 너무 신기해서 <br/>
+해당 분야에 관심이 생겼고, 자연스레 공부를 시작하게 되었습니다. 
+
+제가 좋아하는 관심분야를 공부하는 것이 너무 즐겁습니다. <br/>
+공부 흔적을 남기고 여러가지 내용을 함께 공유하는 것이 즐겁고<br/>
+이를 통해 발전해 나가고 싶습니다! <br/>
+
+
+###  [CV](https://github.com/YoungHyun197/YoungHyun197_CV/blob/main/CV.pdf)  
+
+## 관심 연구분야 
   
 - Computer Vision  
 - Deep Learning
