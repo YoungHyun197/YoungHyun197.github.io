@@ -5,27 +5,24 @@ layout: single
 
 ---
 
-## Hello, This is TaeYoung Kim! 🖐️
+## Hello I am YounhHyun Cho! 🖐️
 
 Welcome to my Tech Blog!  
 
-This is Taeyoung Kim, who wants to become a Robotics Perception engineer or SLAM / Localization engineer. I'm **self-motivated student**, also I like to grow up with my colleagues around me.
+I wants to become a SW & ML Researcher. 
 
-I start my Tech blog to record and share what I have learned.  
+My research interests are Deep-Learning and Computer-Vision. <br/>I like taking on challenging tasks and I like to grow up with my colleagues around me.<br/>
 
-### If you want to know more about me, please see my [CV](https://github.com/Taeyoung96/TaeyoungKim_CV/blob/master/TaeyoungKim_CV.pdf).  
+That is why I upload and share what I did on my Github and my personal Technical Blog.
+### If you want to know more about me, please see my [CV](https://github.com/YoungHyun197/YoungHyun197_CV/blob/main/CV.pdf).  
 
 ## Research Interest  
-
-- SLAM  
-- Robotics  
+  
 - Computer Vision  
 - Deep Learning
 
 ## Contacts  
 
-- [Github](https://github.com/Taeyoung96)  
-- [Facebook](https://www.facebook.com/profile.php?id=100015469002427)  
-- [LinkedIn](https://www.linkedin.com/in/tae-young-kim-595692139/)  
-- Gmail : tyoung960302@gmail.com  
+- [Github](https://github.com/YoungHyun197)   
+- mail : cyh197@naver.com
 
