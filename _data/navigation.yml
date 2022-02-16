@@ -12,7 +12,8 @@ side:
     children:
       - title: "CS231n Summary"
         url: /categories/CS231n/
-      - title: ""
+      - title: "밑바닥"
+        url: /categories/mit/
       - title: "Research"
         url: /categories/Paper_Review/
 
