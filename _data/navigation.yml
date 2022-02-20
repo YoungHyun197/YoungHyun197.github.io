@@ -31,11 +31,6 @@ side:
     children:
       - title: "Mediapipe"
         url: /categories/mediapipe/
-  
-  - title: Programming
-    children:
-      - title: "따배씨++ 정리"
-        url: /categories/ddabessi/
 
   - title: Tips
     children:
