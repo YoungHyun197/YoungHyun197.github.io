@@ -20,8 +20,8 @@ side:
   - title: Framework
     children:
       - title: "Pytorch"
-        url: /categories/Pytorch/
-      
+        url: /categories/pytorch/
+
   - title: Mathematics
     children:
       - title: "Mathematics"
@@ -38,7 +38,7 @@ side:
         url: /categories/issue/
       - title: "Etc"
         url: /categories/tips/
-  
+
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
