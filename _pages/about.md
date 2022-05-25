@@ -29,19 +29,20 @@ Media-Pipe를 활용하여 AI 트레이너를 개발하였고, 최우수상에 �
 OpenMMD를 접하게 되었습니다. 
 
 Media-Pipe와 OpenMMD를 다뤄보며 컴퓨터비전 기술의 신기함과 매력에 빠져 <br/>
-자연스레 해당 분야에 대한 공부를 시작하게 되었습니다. <br/>
+이에 대한 원리를 파악하고 연구하여 보다 나은 기술을 만들어 보고 싶어졌습니다. <br/>
 
 관심있는 분야에 대해 깊게 파고들며 몰랐던 부분을 알아감에 있어서 행복감을 느낍니다. <br/>
 제가 좋아하고 잘 할수있는 분야를 직업으로 만든다면 더욱 행복하지 않을까 하는 마음으로 <br/>
 하루하루 공부하며 성장해 나가고 있습니다. 
+궁극적으로 이러한 연구를 기반으로 세상에 큰 도움을 주는 연구자가 되고자하는 것이 목표입니다.
 <br/>
   
 
 ## 관심 연구분야 
   
 - Computer Vision  
+- 3D Machine Learning
 - Deep Learning
-
 ## Contacts  
 - [CV](https://github.com/YoungHyun197/YoungHyun197_CV/blob/main/CV.pdf)
 - [Github](https://github.com/YoungHyun197)   
